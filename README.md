@@ -28,7 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/stats-preview-card-component-using-scss-cR8KucthC
+- Live Site URL: https://restjcr.github.io/another-frontend-challenge/
 
 ## My process
 
